@@ -1,7 +1,7 @@
 {
-  "name": "assets-and-index-html",
+  "name": "boilerplate-hjs-webpack",
   "version": "1.0.0",
-  "author": "Henrik Joreteg <henrik@andyet.net>",
+  "author": "Clinton Halpin <clintonhalpin@gmail.com>",
   "dependencies": {
     "less": "^2.5.1",
     "less-loader": "^2.2.0",
