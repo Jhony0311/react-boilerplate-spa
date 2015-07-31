@@ -10,3 +10,4 @@ export default (
     <DefaultRoute handler={Hello} />
   </Route>
 );
+

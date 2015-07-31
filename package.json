@@ -5,7 +5,8 @@
   "dependencies": {
     "less": "^2.5.1",
     "less-loader": "^2.2.0",
-    "react": "^0.13.3"
+    "react": "^0.13.3",
+    "react-router": "^0.13.3"
   },
   "devDependencies": {
     "autoprefixer-core": "^5.1.11",
