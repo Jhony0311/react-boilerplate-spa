@@ -5,7 +5,7 @@ class Main extends React.Component{
   render(){
     return (
       <div>
-        <RouteHandler {...this.props}/>
+        {this.props.children}
       </div>
     )
   }
