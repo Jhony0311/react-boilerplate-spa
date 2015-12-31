@@ -3,9 +3,10 @@ import { RouteHandler } from 'react-router';
 
 class Main extends React.Component{
   render(){
+  	console.log(this.props.children)
     return (
       <div>
-        <RouteHandler {...this.props}/>
+        {this.props.children}
       </div>
     )
   }
