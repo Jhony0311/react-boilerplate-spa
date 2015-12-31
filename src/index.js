@@ -1,7 +1,12 @@
-import React from 'react'
-import { render } from 'react-dom'
-import Router from 'react-router'
-import styles from './app.less'
-import routes from './routes/'
+import React from 'react';
+import { render } from 'react-dom';
+import Router from 'react-router';
+import styles from './styles/less/app.less';
+import routes from './routes/';
 
-render((routes), document.body);
+// Add #root element to body
+let g = document.createElement('div');
+g.setAttribute("id", "root");
+document.body.appendChild(g);
+
+render((routes), document.getElementById('root'));

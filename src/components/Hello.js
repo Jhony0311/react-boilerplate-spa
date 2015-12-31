@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router';
 
-class Hello extends React.Component{
+export default class Hello extends React.Component {
   render () {
     return <div className='container'>
         <header role='banner'>
@@ -12,5 +12,3 @@ class Hello extends React.Component{
       </div>
   }
 }
-
-export default Hello
