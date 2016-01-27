@@ -12,5 +12,4 @@ Open ```http://localhost:3000```
 built by [@clintonhalpin](http://twitter.com/clintonhalpin)
 
 =
-
 stolen from [hjs-webpack](https://github.com/HenrikJoreteg/hjs-webpack)
