@@ -1,5 +1,5 @@
-# boilerplate-hjs-webpack
-React, ES6, Webpack setup damn.
+# react-boilerplate-spa 
+React boilerplate for a single page app!
 
 # get started
 
